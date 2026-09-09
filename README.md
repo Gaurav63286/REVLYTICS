@@ -29,7 +29,7 @@ pip install -r requirements.txt
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000)
+Open [http://localhost:3000](https://revlytics-chi.vercel.app/)
 
 ### Production Build
 
